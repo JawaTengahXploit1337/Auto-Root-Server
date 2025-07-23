@@ -1,7 +1,6 @@
+![Tool Preview](root.png) 
 
 # Auto Root Server Toolkit
-
-![Tool Preview](root.png) *(Optional: Add screenshot of your tool in action)*
 
 A sophisticated privilege escalation toolkit designed to automate the process of gaining root access on vulnerable servers. This tool checks system capabilities and attempts various escalation techniques.
 
@@ -26,7 +25,7 @@ A sophisticated privilege escalation toolkit designed to automate the process of
 3. Access the file through a web browser
 
 ```bash
-wget https://raw.githubusercontent.com/yourusername/auto-root-toolkit/main/index.php -O index.php
+wget https://raw.githubusercontent.com/JawaTengahXploit1337/Auto-Root-Server/main/root.php
 ```
 
 ## Usage
