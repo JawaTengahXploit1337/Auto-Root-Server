@@ -35,7 +35,9 @@ wget https://raw.githubusercontent.com/JawaTengahXploit1337/Auto-Root-Server/mai
 3. Click "Attempt Privilege Escalation" button
 4. If successful, click the provided link to access root shell
 
-![Usage Demo](demo.gif) *(Optional: Add usage GIF)*
+![Work Root Shell](rootshell.jpg) 
+
+*(Work Root Shell Command)*
 
 ## Technical Details
 
