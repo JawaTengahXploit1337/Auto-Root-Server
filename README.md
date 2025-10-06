@@ -39,6 +39,10 @@ wget https://raw.githubusercontent.com/JawaTengahXploit1337/Auto-Root-Server/mai
 
 *(Work Root Shell Command)*
 
+![Work Root Shell](rootshellwork.jpg) 
+
+*(Work Root Shell Command + CSS Script)*
+
 ## Technical Details
 
 The toolkit works by:
