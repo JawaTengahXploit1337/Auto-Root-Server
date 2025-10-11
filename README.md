@@ -1,4 +1,5 @@
 ![Tool Preview](root.png) 
+[![View Video](https://img.shields.io/badge/View%20Video-%F0%9F%8E%A5-blue)]([https://youtu.be/dQw4w9WgXcQ](https://jawatengahxploit1337.github.io/Auto-Root-Server/autoroot.mp4))
 
 # Auto Root Server Toolkit
 
